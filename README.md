@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying on **Data Science**
 
-- 🌱 I’m currently learning **ANN**
+- 🌱 I’m currently learning **ML and DL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
