@@ -1,7 +1,7 @@
 
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Gizem</h1>
-<h3 align="center">A physics engineer from Turkey. I am doing a master's degree in data analytics at Sabanci University.</h3>
+<h1 align="center">Hi 👋 I'm Gizem</h1>
+<h3 align="center">A physics engineer from Turkey. I am doing a master's degree in Data Analytics at Sabanci University.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying on **Data Science**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ANN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
