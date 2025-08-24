@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying on **Big Data and PySpark**
 
-- 🌱 I’m currently learning **LLL**
+- 🌱 I’m currently learning **LLM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
