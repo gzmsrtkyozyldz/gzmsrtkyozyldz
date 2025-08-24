@@ -1,7 +1,7 @@
 
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋 I'm Gizem</h1>
-<h3 align="center">A Data Engineer from Turkey.I completed my master's degree in Data Analytics at Sabancı University. I work at Bear Analytica.</h3>
+<h3 align="center">A Data Scientist from Turkey.I completed my master's degree in Data Analytics at Sabancı University.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently studying on **Big Data and PySpark**
 
-- 🌱 I’m currently learning **ML and DL**
+- 🌱 I’m currently learning **LLL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
